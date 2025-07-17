@@ -9,7 +9,13 @@ Please ensure you have the following:
 - pipenv
 - python3.13
 - the-repo ( Where you want your automated commits to go to )
+- git
 ```
+Pre-Req:
+``` shell 
+git clone https://github.com/rahulgauli/automate-commit
+```
+
 
 ##### Step I: 
 Create a GitHub Fine Grained API Token with all permissions to the "the-repo". Make sure it has sudo to that repo. "Try to keep your token restricted to the repo you want to communicate with".
