@@ -40,4 +40,4 @@ chmod +x run_me.sh
 ./run_me.sh
 ```
 
-# Thank you for doing this :D 
+# Thank you for doing this :D  Please Add a Star :D 
