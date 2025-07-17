@@ -56,9 +56,8 @@ class GitHubController:
 
 
 class Config(BaseSettings):
-    github_base_url: str = "https://api.github.com"
-    github_repo_name: str = "your-repo-name"
-    github_api_token: str = "your-github-api-token"
+    github_repo_name: str
+    github_api_token: str 
     
     class ConfigDict:
         env_file = ".env"
