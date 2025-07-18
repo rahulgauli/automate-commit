@@ -35,7 +35,7 @@ github_repo_name=the_repo
 If you have a windows and want to use powershell, please run the following:
 
 ``` shell
-.\win_run_me.ps1
+.\windows_run.ps1
 ```
 
 ##### Step V: 
